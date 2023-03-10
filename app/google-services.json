@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32945790400",
+    "project_id": "realtimedatabse-b4b09",
+    "storage_bucket": "realtimedatabse-b4b09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32945790400:android:d5c89009fd8e8cbf4afc25",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32945790400-80o96kp5ctjj27oh18dkv4qj5jlm6jmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrRYp7B2fFMzzvA110BTamO8h_VD-tVVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32945790400-80o96kp5ctjj27oh18dkv4qj5jlm6jmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
